@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-koudougou-laurent",
+  "version": "1.0.0",
+  "description": "Portfolio professionnel de Koudougou Laurent - Développeur Full Stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "fullstack",
+    "developer"
+  ],
+  "author": "Koudougou Laurent",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
